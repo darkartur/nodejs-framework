@@ -1,0 +1,2 @@
+node ./framework.js
+Pause
